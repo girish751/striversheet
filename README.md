@@ -63,4 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/girish751/striversheet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0330-patching-array](https://github.com/girish751/striversheet/tree/main/0330-patching-array/) | Hard |
+| [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
 <!---LeetCode Topics End-->
