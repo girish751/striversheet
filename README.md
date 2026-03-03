@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/girish751/striversheet/tree/main/0330-patching-array/) | Hard |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/girish751/striversheet/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/girish751/striversheet/tree/main/0330-patching-array/) | Hard |
 | [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/girish751/striversheet/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
