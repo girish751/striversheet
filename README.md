@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/girish751/striversheet/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/girish751/striversheet/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
