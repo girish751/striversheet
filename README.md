@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/girish751/striversheet/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/girish751/striversheet/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/girish751/striversheet/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/girish751/striversheet/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/girish751/striversheet/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/girish751/striversheet/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/girish751/striversheet/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
