@@ -97,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/girish751/striversheet/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/girish751/striversheet/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/girish751/striversheet/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/girish751/striversheet/tree/main/0178-rank-scores/) | Medium |
 <!---LeetCode Topics End-->
