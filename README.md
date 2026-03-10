@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/girish751/striversheet/tree/main/0198-house-robber/) | Medium |
 | [0330-patching-array](https://github.com/girish751/striversheet/tree/main/0330-patching-array/) | Hard |
 | [0436-find-right-interval](https://github.com/girish751/striversheet/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/girish751/striversheet/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/girish751/striversheet/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/girish751/striversheet/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0330-patching-array](https://github.com/girish751/striversheet/tree/main/0330-patching-array/) | Hard |
 | [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
+| [0455-assign-cookies](https://github.com/girish751/striversheet/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/girish751/striversheet/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/girish751/striversheet/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -88,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/girish751/striversheet/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0436-find-right-interval](https://github.com/girish751/striversheet/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/girish751/striversheet/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/girish751/striversheet/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 ## Database
