@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/girish751/striversheet/tree/main/0113-path-sum-ii/) | Medium |
+| [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/girish751/striversheet/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Matrix
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
