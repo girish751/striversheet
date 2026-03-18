@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/girish751/striversheet/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/girish751/striversheet/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/girish751/striversheet/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/girish751/striversheet/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/girish751/striversheet/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 ## Dynamic Programming
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
