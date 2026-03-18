@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/girish751/striversheet/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/girish751/striversheet/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/girish751/striversheet/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/girish751/striversheet/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/girish751/striversheet/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/girish751/striversheet/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 <!---LeetCode Topics End-->
