@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/girish751/striversheet/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/girish751/striversheet/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/girish751/striversheet/tree/main/0853-car-fleet/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0436-find-right-interval](https://github.com/girish751/striversheet/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/girish751/striversheet/tree/main/0455-assign-cookies/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/girish751/striversheet/tree/main/0853-car-fleet/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
@@ -146,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
+| [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
@@ -174,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/girish751/striversheet/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 <!---LeetCode Topics End-->
