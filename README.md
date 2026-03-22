@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [0165-compare-version-numbers](https://github.com/girish751/striversheet/tree/main/0165-compare-version-numbers/) | Medium |
+| [0394-decode-string](https://github.com/girish751/striversheet/tree/main/0394-decode-string/) | Medium |
 | [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/girish751/striversheet/tree/main/0394-decode-string/) | Medium |
 | [0853-car-fleet](https://github.com/girish751/striversheet/tree/main/0853-car-fleet/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Monotonic Stack
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/girish751/striversheet/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/girish751/striversheet/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/girish751/striversheet/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
