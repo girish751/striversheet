@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/girish751/striversheet/tree/main/0165-compare-version-numbers/) | Medium |
 | [0394-decode-string](https://github.com/girish751/striversheet/tree/main/0394-decode-string/) | Medium |
 | [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
+| [0482-license-key-formatting](https://github.com/girish751/striversheet/tree/main/0482-license-key-formatting/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
