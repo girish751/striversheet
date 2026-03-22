@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/girish751/striversheet/tree/main/0420-strong-password-checker/) | Hard |
 | [0482-license-key-formatting](https://github.com/girish751/striversheet/tree/main/0482-license-key-formatting/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/girish751/striversheet/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
 <!---LeetCode Topics End-->
