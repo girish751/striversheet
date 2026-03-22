@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0853-car-fleet](https://github.com/girish751/striversheet/tree/main/0853-car-fleet/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/girish751/striversheet/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/girish751/striversheet/tree/main/0455-assign-cookies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0853-car-fleet](https://github.com/girish751/striversheet/tree/main/0853-car-fleet/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
+| [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -231,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
 <!---LeetCode Topics End-->
