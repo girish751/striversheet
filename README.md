@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0853-car-fleet](https://github.com/girish751/striversheet/tree/main/0853-car-fleet/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish751/striversheet/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
+| [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/girish751/striversheet/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/girish751/striversheet/tree/main/0112-path-sum/) | Easy |
 | [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
+| [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/girish751/striversheet/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/girish751/striversheet/tree/main/0853-car-fleet/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
 | [0691-stickers-to-spell-word](https://github.com/girish751/striversheet/tree/main/0691-stickers-to-spell-word/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -256,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
