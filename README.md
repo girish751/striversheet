@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/girish751/striversheet/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/girish751/striversheet/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/girish751/striversheet/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/girish751/striversheet/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/girish751/striversheet/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/girish751/striversheet/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/girish751/striversheet/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/girish751/striversheet/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/girish751/striversheet/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/girish751/striversheet/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/girish751/striversheet/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/girish751/striversheet/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/girish751/striversheet/tree/main/0455-assign-cookies/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/girish751/striversheet/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/girish751/striversheet/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/girish751/striversheet/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
