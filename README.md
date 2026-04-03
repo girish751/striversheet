@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/girish751/striversheet/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish751/striversheet/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/girish751/striversheet/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/girish751/striversheet/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/girish751/striversheet/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish751/striversheet/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/girish751/striversheet/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/girish751/striversheet/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Backtracking
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish751/striversheet/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
+| [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/girish751/striversheet/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/girish751/striversheet/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
