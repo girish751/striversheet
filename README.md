@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish751/striversheet/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/girish751/striversheet/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/girish751/striversheet/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/girish751/striversheet/tree/main/0112-path-sum/) | Easy |
 | [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/girish751/striversheet/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Matrix
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0677-map-sum-pairs](https://github.com/girish751/striversheet/tree/main/0677-map-sum-pairs/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/girish751/striversheet/tree/main/0720-longest-word-in-dictionary/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
