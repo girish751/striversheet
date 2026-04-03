@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/girish751/striversheet/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish751/striversheet/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0655-print-binary-tree](https://github.com/girish751/striversheet/tree/main/0655-print-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/girish751/striversheet/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/girish751/striversheet/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish751/striversheet/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0655-print-binary-tree](https://github.com/girish751/striversheet/tree/main/0655-print-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/girish751/striversheet/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1145-binary-tree-coloring-game](https://github.com/girish751/striversheet/tree/main/1145-binary-tree-coloring-game/) | Medium |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/girish751/striversheet/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish751/striversheet/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
+| [0655-print-binary-tree](https://github.com/girish751/striversheet/tree/main/0655-print-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/girish751/striversheet/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/girish751/striversheet/tree/main/0112-path-sum/) | Easy |
 | [0126-word-ladder-ii](https://github.com/girish751/striversheet/tree/main/0126-word-ladder-ii/) | Hard |
 | [0463-island-perimeter](https://github.com/girish751/striversheet/tree/main/0463-island-perimeter/) | Easy |
+| [0655-print-binary-tree](https://github.com/girish751/striversheet/tree/main/0655-print-binary-tree/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/girish751/striversheet/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
