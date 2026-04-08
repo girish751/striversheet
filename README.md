@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0853-car-fleet](https://github.com/girish751/striversheet/tree/main/0853-car-fleet/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/girish751/striversheet/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/girish751/striversheet/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/girish751/striversheet/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/girish751/striversheet/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/girish751/striversheet/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/girish751/striversheet/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/girish751/striversheet/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
@@ -292,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/girish751/striversheet/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/girish751/striversheet/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
