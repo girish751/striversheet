@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
 | [0948-bag-of-tokens](https://github.com/girish751/striversheet/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/girish751/striversheet/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/girish751/striversheet/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/girish751/striversheet/tree/main/1144-decrease-elements-to-make-array-zigzag/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/girish751/striversheet/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0888-fair-candy-swap](https://github.com/girish751/striversheet/tree/main/0888-fair-candy-swap/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/girish751/striversheet/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/girish751/striversheet/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/girish751/striversheet/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/girish751/striversheet/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/girish751/striversheet/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/girish751/striversheet/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0685-redundant-connection-ii](https://github.com/girish751/striversheet/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/girish751/striversheet/tree/main/0785-is-graph-bipartite/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/girish751/striversheet/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
