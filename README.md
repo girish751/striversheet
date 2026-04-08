@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/girish751/striversheet/tree/main/0721-accounts-merge/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/girish751/striversheet/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/girish751/striversheet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/girish751/striversheet/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/girish751/striversheet/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/girish751/striversheet/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/girish751/striversheet/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/girish751/striversheet/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/girish751/striversheet/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/girish751/striversheet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/girish751/striversheet/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/girish751/striversheet/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/girish751/striversheet/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/girish751/striversheet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/girish751/striversheet/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/girish751/striversheet/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/girish751/striversheet/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
